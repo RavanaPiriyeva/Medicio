@@ -1,0 +1,140 @@
+header #top-side {
+  background-color: #0aafaf;
+  color: white;
+  padding: 10px 0;
+}
+
+header nav img {
+  width: 150px;
+}
+
+header nav .appointment-btn {
+  background-color: #0aafaf;
+  color: white;
+  border-radius: 3px;
+  border: none;
+  padding: 5px 10px;
+}
+
+main #slider img {
+  height: 500px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+main #slider .carousel-caption {
+  background-color: rgba(255, 255, 255, 0.822);
+  border-top: 5px #0aafaf solid;
+  bottom: 50px;
+}
+
+main #slider .read-btn {
+  background-color: #0aafaf;
+  color: white;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 3px;
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+main #slider .slider-dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #969494;
+}
+
+main #slider .active {
+  background-color: #0aafaf;
+}
+
+main #slider .contrl-btn {
+  width: 50px;
+  height: 50px;
+  background-color: rgba(10, 175, 175, 0.671);
+  border-radius: 50%;
+  top: 200px;
+}
+
+main #feature .feature-item {
+  -webkit-box-shadow: 5px 10px 18px #888888;
+          box-shadow: 5px 10px 18px #888888;
+  padding: 20px;
+  border-radius: 7px;
+  -webkit-transition: all 1s;
+  transition: all 1s;
+}
+
+main #feature .feature-item:hover {
+  background-color: #0aafaf;
+  color: white;
+}
+
+main #feature .feature-item:hover i {
+  color: white;
+}
+
+main #feature .feature-item i {
+  font-size: 50px;
+  color: #0aafaf;
+}
+
+main #help {
+  background-color: #0aafaf;
+  color: white;
+}
+
+main #help .help-btn {
+  border-radius: 50px;
+  border: white 4px solid;
+  background-color: #0aafaf;
+  color: white;
+  padding: 10px 20px;
+  margin: 20px 0;
+}
+
+main #about .left-side img {
+  max-width: 100%;
+}
+
+main #about .right-side i {
+  color: #0aafaf;
+}
+
+main #doctors .doctor-item {
+  -webkit-box-shadow: 5px 10px 18px #888888;
+          box-shadow: 5px 10px 18px #888888;
+  border-radius: 7px;
+}
+
+main #doctors .doctor-item img {
+  max-width: 100%;
+}
+
+main #contact .contact-item {
+  -webkit-box-shadow: 5px 10px 18px #888888;
+          box-shadow: 5px 10px 18px #888888;
+  border-radius: 7px;
+}
+
+main #contact .contact-item i {
+  color: #0aafaf;
+  margin-top: 20px;
+  font-size: 30px;
+  border: dotted 2px #0aafaf;
+  padding: 7px;
+  border-radius: 50%;
+}
+
+main #contact .right-side {
+  -webkit-box-shadow: 5px 10px 18px #888888;
+          box-shadow: 5px 10px 18px #888888;
+  border-radius: 7px;
+}
+
+main #contact .right-side .submit-btn {
+  background-color: #0aafaf;
+  border: none;
+}
+/*# sourceMappingURL=style.css.map */
